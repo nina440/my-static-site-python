@@ -55,11 +55,6 @@ site_author: Budzinskaya Nina
 
 repo_url: 
 
-theme:
-  name: mkdocs
-  color_mode: auto
-  user_color_mode_toggle: true
-  custom_dir: 'custom_theme/'
 ```
 
 ### 7. Редактируем содержимое

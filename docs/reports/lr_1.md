@@ -53,8 +53,6 @@ mkdocs new ./
 site_name: My Static Site
 site_author: Budzinskaya Nina
 
-repo_url: 
-
 ```
 
 ### 7. Редактируем содержимое
